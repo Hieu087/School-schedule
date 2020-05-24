@@ -13,5 +13,5 @@ GIẢI PHÁP
 	  .Giảm thiểu khoảng cách đi lại giữa các phòng học.
 	-Thuật toán: 
 	  .Ta sẽ sắp xếp lịch học sao cho đảm bảo thỏa mãn ràng buộc đồng thời giảm thiểu thời gian đi và về.
-	  .Giảm thiểu khoảng cách giữa các lớp học bằng cách tìm các giá trị có phòng yêu cầu gần với phòng yêu cầu ở ca trước đó bằng thuật 		toán Beam search.
+	  .Giảm thiểu khoảng cách giữa các lớp học bằng cách tìm các giá trị có phòng yêu cầu gần với phòng yêu cầu ở ca trước đó bằng thuật toán Beam search.
 	  .Khi phòng yêu cầu không có ta sẽ tìm các phòng thay thế gần với phòng yêu cầu bằng thuật toán Beam seach.
